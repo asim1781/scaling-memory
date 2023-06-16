@@ -1,2 +1,2 @@
-# scaling-memory
-c++ Code to find perfect numbers
+# code_thirsty
+c++
